@@ -1,0 +1,6 @@
+How to add images:
+* Click on Add file > Upload files
+* Drag your file into the box, then click on Commit changes once it is finished uploading
+* Return to the images folder, and click on the filename of your image, this will open it in the tab
+* Copy the URL
+* On the page where you want to insert the image, type ![](<URL>)
